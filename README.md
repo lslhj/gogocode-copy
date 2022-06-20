@@ -1,3 +1,11 @@
+<!--
+ * @Author: lslhj 1018964983@qq.com
+ * @Date: 2022-06-20 23:06:19
+ * @LastEditors: lslhj 1018964983@qq.com
+ * @LastEditTime: 2022-06-21 00:26:30
+ * @FilePath: \gogocode-main\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 [![Code transform has never been easier: GoGoCode](https://img.alicdn.com/imgextra/i1/O1CN01KMiK8i1uEL75yOSuc_!!6000000006005-2-tps-1949-552.png)](https://gogocode.io)
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
@@ -7,7 +15,7 @@
 
 [中文 README](README-cn.md)
 
-come on GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
+ GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
 -   A jQuery-like API to select and transform AST.
 -   A Regex-like syntax to match and replace code.
